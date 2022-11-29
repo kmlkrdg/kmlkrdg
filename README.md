@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kmlkrdg
-- 👀 I’m interested in Middle-Earth.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Google.
+- 👋 Hi, I’m Kemal Karadag @kmlkrdg
+- 👀 I’m interested in Middle-Earth books and films.
+- 🌱 I’m currently learning Software Engineering.
 - 📫 To reach me on kemalkaradag52@gmail.com
 
 <!---
